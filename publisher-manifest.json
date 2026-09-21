@@ -1,0 +1,122 @@
+{
+  "version": 2,
+  "template_version": "d39ce472eeb3cc3f10e7",
+  "page_size": 20,
+  "site_id": "fee27f43e4a1f07ebeb5be2e",
+  "owner": "hhhgjpduk",
+  "repo": "page-e1fb17aabeb69b2467204a20",
+  "title": "彩虹猫(NyanCat)",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "e1fb17aabeb69b2467204a20",
+      "a": "彩虹猫(NyanCat)",
+      "b": "2027最新官网",
+      "entity": "彩虹猫(NyanCat)",
+      "brand": "彩虹猫(NyanCat)",
+      "separator": "|",
+      "path": "index.html",
+      "hash": "064b11d5967a872b7fb19e203ffea710d8114d2a5f06608b04e673d411994235",
+      "content": {
+        "primary_entity": "彩虹猫(NyanCat)",
+        "keyword1": "彩虹猫(NyanCat)",
+        "keyword2": "2027最新官网",
+        "content": {
+          "AI_DESCRIPTION": "，围绕设备选择、订阅配置与套餐对比，提供清晰实际的使用参考。基础版月付¥15，每月100GB流量，支持3台设备同时在线；旗舰版月付¥35，每月300GB流量，支持5台设备，配备IPLC专线游戏加速优化与7x24优先工单支持；团队版月付¥85，每月1000GB流量，支持20台设备，提供VIP专属高带宽节点与企业定制路由。用户可按自身设备数量、流量需求与使用周期挑选合适套餐，并依照所选客户端导入订阅信息完成配置。",
+          "AI_HERO_SUBTITLE": "彩虹猫加速器套餐与设备配置",
+          "AI_HERO_INTRO": "彩虹猫(NyanCat)是一款面向多设备用户的海外加速器，提供基础版、旗舰版与团队版三档订阅方案。流量从每月100GB到1000GB，在线设备数从3台到20台不等，旗舰版及以上配备IPLC专线游戏加速优化与优先工单支持。用户可结合自身设备数量、流量消耗与预算周期选择套餐，再参照客户端导入订阅。",
+          "AI_VISUAL_TITLE": "彩虹猫多设备加速方案",
+          "AI_HIGHLIGHT_1": "三档套餐覆盖不同流量需求",
+          "AI_HIGHLIGHT_2": "在线设备数最高支持20台",
+          "AI_HIGHLIGHT_3": "旗舰版含IPLC专线游戏优化",
+          "AI_FEATURES_TITLE": "套餐与设备要点",
+          "AI_FEATURES_INTRO": "从流量、设备数与订阅周期三个角度快速了解选择方向。",
+          "AI_FEATURE_TITLE_1": "按流量选套餐",
+          "AI_FEATURE_TEXT_1": "每月100GB、300GB、1000GB三档，轻度浏览选基础版，多设备高清播放或游戏加速建议旗舰版及以上。",
+          "AI_FEATURE_TITLE_2": "按设备定方案",
+          "AI_FEATURE_TEXT_2": "基础版支持3台，旗舰版支持5台，团队版支持20台同时在线，按家庭或团队设备总数匹配即可。",
+          "AI_FEATURE_TITLE_3": "按周期购订阅",
+          "AI_FEATURE_TEXT_3": "月付灵活起步，年付折算更省：基础版¥150/年，旗舰版¥350/年，团队版¥850/年，长期使用可优先考虑年付。",
+          "AI_CLIENTS_TITLE": "客户端选择与订阅导入",
+          "AI_CLIENTS_INTRO": "根据设备系统选择常见客户端，再按客户端文档导入订阅地址。",
+          "AI_PLANS_TITLE": "套餐对比与选购建议",
+          "AI_PLANS_INTRO": "基础版月付¥15适合轻度使用；旗舰版月付¥35适合多设备与游戏加速；团队版月付¥85满足大流量与多人共享。",
+          "AI_GUIDE_TITLE": "订阅配置三步",
+          "AI_GUIDE_INTRO": "先确认需求，再查看适配要求，最后按客户端文档完成订阅导入。",
+          "AI_STEP_TITLE_1": "选择服务",
+          "AI_STEP_TEXT_1": "根据流量需求与在线设备数，在基础版、旗舰版、团队版中选定一档，并确定月付或年付周期。",
+          "AI_STEP_TITLE_2": "查看适配要求",
+          "AI_STEP_TEXT_2": "确认常用设备系统与客户端是否支持订阅导入方式，核对套餐内包含的在线设备数量。",
+          "AI_STEP_TITLE_3": "依客户端文档配置订阅",
+          "AI_STEP_TEXT_3": "打开所选客户端，按照其文档指引粘贴或扫码导入订阅信息，保存后即可按套餐规则使用。",
+          "AI_FAQ_INTRO": "订阅导入、设备限制与付费周期。",
+          "AI_CLOSING_TITLE": "彩虹猫加速器订阅",
+          "AI_CLOSING_TEXT": "根据设备数量与流量需求选定套餐，按客户端文档导入订阅即可开始使用。",
+          "AI_FAQ_TITLE": "常见问题",
+          "AI_FAQ_QUESTION_1": "基础版和旗舰版的主要区别是什么？",
+          "AI_FAQ_ANSWER_1": "基础版每月 100GB 流量、支持 3 台设备、普通线路节点池；旗舰版每月 300GB、支持 5 台设备，含 IPLC 专线、原生流媒体解锁和 7x24 优先工单支持。",
+          "AI_FAQ_QUESTION_2": "一个账号可以同时在几台设备上使用？",
+          "AI_FAQ_ANSWER_2": "基础版支持 3 台设备同时在线，旗舰版支持 5 台，团队版支持 20 台。超出数量可能导致连接中断，可根据需要升级套餐。",
+          "AI_FAQ_QUESTION_3": "按年付比月付划算多少？",
+          "AI_FAQ_ANSWER_3": "按年付基础版 ¥150/年、旗舰版 ¥350/年、团队版 ¥850/年，相当于支付十个月费用使用十二个月，节省两个月开支。",
+          "AI_FAQ_QUESTION_4": "团队版适合什么场景？",
+          "AI_FAQ_ANSWER_4": "团队版每月 1000GB 流量，支持 20 台设备同时在线，提供 VIP 专属高带宽节点、企业定制路由和专属客户经理，适合小型团队或工作室。",
+          "AI_FAQ_QUESTION_5": "如何导入订阅到客户端？",
+          "AI_FAQ_ANSWER_5": "先根据设备系统下载对应客户端，在订阅管理中选择从链接导入，粘贴订阅地址后更新节点列表即可连接使用。具体步骤可参考客户端文档。"
+        },
+        "plans": [
+          {
+            "name": "基础版",
+            "price": "¥15/月",
+            "annual_price": "按年付仅需 ¥150/年",
+            "features": [
+              "每月 100GB 极速流量",
+              "支持 3 台设备同时在线",
+              "解锁基础流媒体",
+              "普通线路节点池"
+            ]
+          },
+          {
+            "name": "旗舰版",
+            "price": "¥35/月",
+            "annual_price": "按年付仅需 ¥350/年",
+            "featured": true,
+            "features": [
+              "每月 300GB 极速流量",
+              "支持 5 台设备同时在线",
+              "全节点原生流媒体解锁",
+              "IPLC 专线游戏加速优化",
+              "7x24 优先工单支持"
+            ]
+          },
+          {
+            "name": "团队版",
+            "price": "¥85/月",
+            "annual_price": "按年付仅需 ¥850/年",
+            "features": [
+              "每月 1000GB 极速流量",
+              "支持 20 台设备同时在线",
+              "VIP 专属高带宽节点",
+              "支持企业定制路由",
+              "专属客户经理服务"
+            ]
+          }
+        ],
+        "clients": []
+      }
+    }
+  ],
+  "domain": {
+    "apex": "bpyhyid.cn",
+    "host": "bpyhyid.cn"
+  },
+  "file_hashes": {
+    "index.html": "be0264ef5e0e3a566609184c0451de0a9054d374a2e0dbd0f16922ffc5a44f38",
+    "sitemap.xml": "904245e3e381d99ae96f2c8ccc8998fdc4e8f484492b3ce30d7196d57d971e06",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "4a8eb0db3e559cf8d187f6ba4b55b10c499f208eceadaa61c951bacf762b276d",
+    "robots.txt": "a420410c8510c8eef608f8cb501c3d511f1e82a9827b795dc18b3071bc9e5010",
+    "406a7a6fd855072245d50037863e853a.txt": "a6e6f0b3bd8f819aa2b140daf64e128ed462e3c19b016866e6ae90047d202ed5"
+  },
+  "revision": "0d7ad0451817b3956fb2a6662bb833dab7c16f39faccda1283e7b9d4f08c3848"
+}
